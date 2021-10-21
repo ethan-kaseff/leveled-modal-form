@@ -1,6 +1,8 @@
+import FormModal from "./components/FormModal";
+
 function App() {
   return (
-    <h1>Hello from App</h1>
+    <FormModal />
   );
 }
 
