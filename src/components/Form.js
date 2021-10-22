@@ -15,7 +15,6 @@ function Form() {
 
   return (
     <>
-      <p>Here is the modal</p>
       <Accordion defaultActiveKey={active}>
         <Accordion.Item eventKey="0">
           <Accordion.Header>
