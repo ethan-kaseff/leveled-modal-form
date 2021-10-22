@@ -1,5 +1,14 @@
 import React, { useState, useEffect } from "react";
+
+// https://react-bootstrap.github.io/components/accordion/
 import Accordion from 'react-bootstrap/Accordion'
+
+// Misc Resource
+// https://www.freakyjolly.com/react-bootstrap-accordion-with-customized-style-and-active-panel-style-example/
+
+// Check Marks
+// https://icons.getbootstrap.com/icons/check-circle-fill/
+// https://icons.getbootstrap.com/icons/check-circle/
 
 import './Form.css'
 
