@@ -8,8 +8,13 @@
 
 .button-div {
     display: flex;
+    justify-content: flex-end;
 }
 
-.button {
-    
+.description {
+    font-style: italic;
+}
+
+.accordion-body {
+    padding: 8px;
 }
