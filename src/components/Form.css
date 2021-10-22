@@ -1,5 +1,9 @@
 .checks {
     padding: 6px;
+    padding-right: 7px;
+    padding-left: 7px;
+    /* margin: 4px; */
+    /* width: 20px; */
 }
 
 .green {
@@ -9,6 +13,8 @@
 .button-div {
     display: flex;
     justify-content: flex-end;
+    margin: 4px;
+    margin-top: 15px;
 }
 
 .description {
@@ -17,4 +23,22 @@
 
 .accordion-body {
     padding: 8px;
+}
+
+.number-check-container {
+    width: 34px;
+    height: 35px;
+    margin: 4px;
+}
+
+.number {
+    /* width: 20px; */
+    padding: 4px;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin: 4px;
+    font-size: smaller;
+    font-weight: bold;
+    border: .6mm solid lightgray;
+    border-radius: 20px;
 }
